@@ -4,5 +4,6 @@
 
 ![](res/demo.png)
 
-Zoom out with the scroll whell  
-Change the visualized function with the left and right arrows
+## Controls
+- Zoom out with the scroll whell  
+- Change the visualized function with the left and right arrows
